@@ -1,0 +1,8 @@
+# .gitignore
+# Environment
+venv/
+*.pyc
+
+# IDE/OS files
+.DS_Store
+__pycache__/
