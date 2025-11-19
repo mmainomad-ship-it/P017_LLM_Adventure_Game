@@ -40,6 +40,8 @@ This project demonstrates the integration of a **local Large Language Model (LLM
     python adventure_game.py
     ```
 
+    PS: q or quit in lower case will quit the game.
+
 ---
 
 ## ✍️ Author
